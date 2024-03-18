@@ -12,5 +12,8 @@ Introducing Miro: a collaborative platform with text, shapes, and real-time coll
 - ⭐️ Favoriting functionality
 - 🌐 Next.js 14 framework
 - 💅 TailwindCSS & ShadcnUI styling
+<<<<<<< HEAD
 
 Key technologies also include LiveBlocks and Convex which makes the real-time experience authentic.
+=======
+>>>>>>> d64bc1a (resolved prerendering)
